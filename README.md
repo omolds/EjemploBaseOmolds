@@ -8,6 +8,7 @@ Con OMolds podrás crear una copia de la herramienta que quieres para cada una d
 * Instalar KumbiaPHP 0.9 Spirit en localhost [KumbiaPHP 0.9](http://wiki.kumbiaphp.com/Instalar_Kumbia)
 * Tener instalado Mysql
 * Activar el  mod_rewrite en apache
+* Activar una cuenta en [http://dev.omolds.com/](http://dev.omolds.com/) como desarrollador 
 
 
 
